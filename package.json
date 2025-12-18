@@ -1,0 +1,12 @@
+{
+  "name": "po-budigirls",
+  "version": "1.0.0",
+  "description": "Sistem Informasi Tiket Bus sederhana menggunakan Node.js dan Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

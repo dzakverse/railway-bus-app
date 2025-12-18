@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistem Informasi Tiket Bus</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Mau ke mana nih?</h1>
+    <p>Naik bus aja yuk, bersama PO.Budigirls!</p>
+  </header>
+
+  <main id="rute" class="content">
+    <h2>Pilih Rute Perjalanan</h2>
+
+    <div class="container">
+      <div class="form-box">
+        <label>Keberangkatan</label>
+        <select id="dari"></select>
+
+        <label>Tujuan</label>
+        <select id="tujuan" disabled></select>
+        <label>Jam Keberangkatan</label>
+        <select id="jam" disabled></select>      </div>
+
+      <div class="receipt">
+        <h3>Ringkasan Perjalanan</h3>
+        <p><strong>Dari:</strong> <span id="r-dari">-</span></p>
+        <p><strong>Tujuan:</strong> <span id="r-tujuan">-</span></p>
+        <p><strong>Jam:</strong> <span id="r-jam">-</span></p>
+        <p><strong>Nopol:</strong> <span id="r-nopol">-</span></p>
+        <p><strong>Harga:</strong> <span id="r-harga">-</span></p>
+      </div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
