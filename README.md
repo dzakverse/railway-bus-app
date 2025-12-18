@@ -100,13 +100,8 @@ Mengembalikan daftar rute bus:
 
 1. Upload project ke GitHub  
 2. Masuk ke Railway → **New Project → Deploy from GitHub**  
-3. Pilih repository kamu  
+3. Pilih repository  
 4. Railway otomatis build & deploy  
 5. Ambil URL publik dari halaman service
-
----
-- Informasi Perjalanan  
-- Footer  
-- Dashboard Railway  
 
 ---
