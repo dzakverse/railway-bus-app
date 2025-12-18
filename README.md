@@ -105,11 +105,6 @@ Mengembalikan daftar rute bus:
 5. Ambil URL publik dari halaman service
 
 ---
-
-## 📸 Screenshot (Tambahkan Sendiri)
-
-- Tampilan Hero  
-- Form Pilih Rute  
 - Informasi Perjalanan  
 - Footer  
 - Dashboard Railway  
